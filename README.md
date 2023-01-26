@@ -2,4 +2,4 @@ Hello!
 
 My name is Guilherme, born in March 3, 1999.
 
-I'm currently studying to become a data engineering ou data scientist :D
+I'm currently working as Data Engineer at Bix Tech!
